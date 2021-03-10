@@ -1,0 +1,37 @@
+*,
+::after,
+::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+body{
+    background: url('/img/firecrackers.jpg')  no-repeat;
+    background-size: cover;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 250px auto;
+    color: #f9f9f9;
+}
+.title{
+    font-size: 60px;
+    text-align: center;
+}
+.count{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.count span{
+    padding-left: 10px;
+}
+.days,.hours,.min,.second{
+    margin-right: 20px;
+    font-size: 55px;
+}
