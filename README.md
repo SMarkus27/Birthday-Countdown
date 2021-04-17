@@ -1,34 +1,34 @@
 <p align="center">
   <img align='center' src="./assets/SMarkus.png" height="300">
 </p>
-<h1 align='center'>🚀 Um Countdown  🚀 </h1>
-Um simples countdown que mostrar quantos tempo falta para uma determinada data, quando o data expira, automaticamente é adicionada a data para o proximo ano.
+<h1 align='center'>🚀A Countdown  🚀 </h1>
+A simple countdown to show  how much time is left for a date, when the date expires, it is automatically changed to the next year.
 <h2>Layout</h2>
   <img align='center' src="./assets/countdown.png" height="300">
-<h2>Como Executar o projeto 🚀</h2>
+<h2>How to run this repo: 🚀</h2>
 
 ```bash
 
-# Clone este repositório
+# Clone this repositório
 $ git clone git@github.com:SMarkus27/Birthday-Countdown.git
 
-# Acesse a pasta do projeto no terminal/cmd
+# Open the project folder in the terminal/cmd
 $ cd Birthday-Countdown
 
-# Execute o arquivo index no seu browser para ativar aplicação:
+# Run the index file in your browser:
 $ index.html
 
 
 ```
 
-<h2>Tecnologias usadas</h2>
+<h2>Tech Stack</h2>
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
   <li>JavaScript</li>
 </ul>
- 📝 Licença
+ 📝 License
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+This project is under license [MIT](./LICENSE).
 
-Feito  por Marcus Vinicius 👋🏽 [Entre em contato!](https://www.linkedin.com/in/marcus-vinicius-campos=pereira)
+Made by Marcus Vinicius 👋🏽 [Get in touch!](https://www.linkedin.com/in/marcus-vinicius-campos=pereira)
